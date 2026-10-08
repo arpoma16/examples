@@ -23,3 +23,4 @@ npm run build
 ```
 
 Production builds use `/examples/` as the Vite base path for GitHub Pages.
+Deployment is handled through the GitHub Pages official GitHub Actions workflow.
